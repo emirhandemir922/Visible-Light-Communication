@@ -1,3 +1,3 @@
 # Visible-Light-Communication
 
-A simple project for sending image via light with using two Arduino Uno's 
+An embedded systems project for sending image via light with using two Arduino Uno's 
